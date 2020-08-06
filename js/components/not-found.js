@@ -1,0 +1,1 @@
+const NotFound = { template: '<p>Страница не найдена</p>' };
